@@ -1,5 +1,4 @@
 # CDNization
-## Static stuff to be CDNized
 
 Sometimes it is necessary to consume third-party static files, after all there is no reason to reinvent the wheel, [but these are not always available on a CDN or we are able to do this safely](https://hacks.mozilla.org/2015/09/subresource-integrity-in-firefox-43/).
 
